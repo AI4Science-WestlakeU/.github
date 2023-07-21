@@ -8,6 +8,6 @@ Website: [https://tailin.org/](https://tailin.org/).
 
 Collaborators:
 - [Ziqing Li's lab](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html) at [Westlake University](https://en.westlake.edu.cn/)
-- [Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at Stanford Aeronautics and Astronautics Department
+- [Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at Stanford University
 - [Yuansheng Cao (曹远胜)](https://www.phys.tsinghua.edu.cn/phyen/info/1062/1716.htm) at Tsinghua University and [Chao Tang (汤超)](https://faculty.pku.edu.cn/tangchao/zh_CN/index.htm) at Peking University
 - [Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/) at [MILA](https://mila.quebec/en/)
