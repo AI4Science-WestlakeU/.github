@@ -11,3 +11,4 @@ Collaborators:
 - [Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at Stanford University
 - [Yuansheng Cao (曹远胜)](https://www.phys.tsinghua.edu.cn/phyen/info/1062/1716.htm) at Tsinghua University and [Chao Tang (汤超)](https://faculty.pku.edu.cn/tangchao/zh_CN/index.htm) at Peking University
 - [Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/) at [MILA](https://mila.quebec/en/)
+- [Sebastian Musslick](https://musslick.github.io/AER_website/) at [Brown University](https://www.brown.edu/)
