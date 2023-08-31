@@ -6,9 +6,9 @@ Our [research group](https://en.westlake.edu.cn/faculty/tailin-wu.html) at [West
 
 Website: [https://tailin.org/](https://tailin.org/).
 
-Collaborators:
-- [Ziqing Li(李子青)'s lab](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html) at [Westlake University](https://en.westlake.edu.cn/)
+Collaborators (a subset):
 - [Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at Stanford University
 - [Yuansheng Cao (曹远胜)](https://www.phys.tsinghua.edu.cn/phyen/info/1062/1716.htm) at Tsinghua University and [Chao Tang (汤超)](https://faculty.pku.edu.cn/tangchao/zh_CN/index.htm) at Peking University
 - [Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/) at [MILA](https://mila.quebec/en/)
 - [Sebastian Musslick](https://musslick.github.io/AER_website/) at [Brown University](https://www.brown.edu/)
+- [Ziqing Li(李子青)'s lab](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html) at [Westlake University](https://en.westlake.edu.cn/)
