@@ -12,5 +12,5 @@ Collaborators (a subset):
 - [Prof. Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/) at [MILA](https://mila.quebec/en/)
 - [Prof. Sebastian Musslick](https://musslick.github.io/AER_website/) at [Brown University](https://www.brown.edu/)
 - [Prof. Gianluca Iaccarino](https://profiles.stanford.edu/gianluca-iaccarino) at [Stanford University](https://www.stanford.edu/)
-- [Prof. Ziqing Li(李子青)'s lab](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html) at [Westlake University](https://en.westlake.edu.cn/)
+- [Prof. Ziqing Li（李子青）](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html)at [Westlake University](https://en.westlake.edu.cn/)
 - [Yilun Du](https://yilundu.github.io/) at [MIT EECS](https://www.eecs.mit.edu/)
