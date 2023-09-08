@@ -7,8 +7,10 @@ Our [research group](https://en.westlake.edu.cn/faculty/tailin-wu.html) at [West
 Website: [https://tailin.org/](https://tailin.org/).
 
 Collaborators (a subset):
-- [Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at Stanford University
-- [Yuansheng Cao (曹远胜)](https://www.phys.tsinghua.edu.cn/phyen/info/1062/1716.htm) at Tsinghua University and [Chao Tang (汤超)](https://faculty.pku.edu.cn/tangchao/zh_CN/index.htm) at Peking University
-- [Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/) at [MILA](https://mila.quebec/en/)
-- [Sebastian Musslick](https://musslick.github.io/AER_website/) at [Brown University](https://www.brown.edu/)
-- [Ziqing Li(李子青)'s lab](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html) at [Westlake University](https://en.westlake.edu.cn/)
+- [Prof. Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at [Stanford University](https://www.stanford.edu/)
+- [Prof. Yuansheng Cao (曹远胜)](https://www.phys.tsinghua.edu.cn/phyen/info/1062/1716.htm) at Tsinghua University and [Prof. Chao Tang (汤超)](https://faculty.pku.edu.cn/tangchao/zh_CN/index.htm) at Peking University
+- [Prof. Yoshua Bengio](https://mila.quebec/en/person/bengio-yoshua/) at [MILA](https://mila.quebec/en/)
+- [Prof. Sebastian Musslick](https://musslick.github.io/AER_website/) at [Brown University](https://www.brown.edu/)
+- [Prof. Gianluca Iaccarino](https://profiles.stanford.edu/gianluca-iaccarino) at [Stanford University](https://www.stanford.edu/)
+- [Prof. Ziqing Li(李子青)'s lab](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html) at [Westlake University](https://en.westlake.edu.cn/)
+- [Yilun Du](https://yilundu.github.io/) at MIT[https://www.mit.edu/]
