@@ -6,7 +6,7 @@ Our [research group](https://en.westlake.edu.cn/faculty/tailin-wu.html) at [West
 
 Website: [https://tailin.org/](https://tailin.org/).
 
-Collaborators (a subset):
+Collaborators (a non-exhaustive list):
 - [Prof. Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at [Stanford University](https://www.stanford.edu/)
 - [Prof. Chao Tang (汤超)](https://faculty.pku.edu.cn/tangchao/zh_CN/index.htm) at [Peking University](https://www.pku.edu.cn/)
 - [Prof. Yuansheng Cao (曹远胜)](https://www.phys.tsinghua.edu.cn/phyen/info/1062/1716.htm) at [Tsinghua University](https://www.tsinghua.edu.cn/)
