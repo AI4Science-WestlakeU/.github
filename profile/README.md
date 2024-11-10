@@ -1,10 +1,10 @@
 # AI for Scientific Simulation and Discovery Lab
 
 Our [research group](https://ai4s.lab.westlake.edu.cn/) at [Westlake University (西湖大学)](https://en.westlake.edu.cn/) carries out long-term work on core and universal problems for AI + Science:
-- **AI for scientific simulation**: Developing machine learning algorithms (based on Graph Neural Networks and Diffusion Models) for large-scale, multi-scale scientific simulation (applied to fluid dynamics, materials, plasmas) and scientific design (protein design, materials design, mechanical design);
-- **AI for scientific discovery**: Developing machine learning algorithms (based on neuro-symbolic AI and foundation models) to discover universal rules and internal structures in scientific systems (applied to life sciences and physics); 
+- **AI for scientific simulation, design, and control**: Developing machine learning algorithms (based on Graph Neural Networks and Diffusion Models) for large-scale, multi-scale scientific simulation (applied to fluid dynamics, materials, plasmas), scientific design (protein design, materials design, mechanical design), and control (fluid control, PDE control);
+- **AI for scientific discovery**: Developing machine learning algorithms (based on foundation models and neuro-symbolic AI) to discover universal rules and internal structures in scientific systems (applied to life sciences and physics); 
 
-Website: [https://tailin.org/](https://tailin.org/).
+Group website: [https://ai4s.lab.westlake.edu.cn/](https://ai4s.lab.westlake.edu.cn/)
 
 Collaborators (a non-exhaustive list):
 - [Prof. Kentaro Hara](https://engineering.stanford.edu/people/ken-hara) at [Stanford University](https://www.stanford.edu/)
