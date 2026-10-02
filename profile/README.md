@@ -5,4 +5,5 @@ Our [research group](https://ai4s.lab.westlake.edu.cn/) at [Westlake University 
 - **AI for Physical Sciences**: Develop novel generative AI approaches for scientific simulation, control, design, and scientific discovery in complex physical systems such as fluids and plasmas.
 - **AI for Life Science**: Develop AI virtual cells and decode the evolutionary mechanisms and intrinsic logic of living systems.
 
-Group website: [https://ai4s.lab.westlake.edu.cn/](https://ai4s.lab.westlake.edu.cn/)
+Group website: [ai4s.lab.westlake.edu.cn](https://ai4s.lab.westlake.edu.cn/)\
+Group Leader website: [tailin.org](https://tailin.org/)
